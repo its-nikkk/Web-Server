@@ -8,9 +8,9 @@ This script automates the deployment of an Apache web server on a Linux system. 
 - Administrative privileges to install packages and configure firewall rules
 
 ## Usage
-1. Download the `deploy_apache.py` script onto your Linux system.
+1. Download the `Server.py` script onto your Linux system.
 2. Open a terminal window.
-3. Navigate to the directory containing the `deploy_apache.py` script.
+3. Navigate to the directory containing the `Server.py` script.
 4. Run the script with administrative privileges using the following command:
     ```bash
     sudo python3 ./Server.py
